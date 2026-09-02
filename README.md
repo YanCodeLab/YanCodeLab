@@ -1,13 +1,9 @@
 # 👋 Olá, eu sou o Yan!
 
-Tenho 19 anos e sou formado em Técnico em Eletrônica pela ETEC. Foi lá que tive meu primeiro contato com programação, usando C++ e Arduino para criar diversos projetos incríveis — e foi aí que me apaixonei pela programação! 💻✨
+Tenho 19 anos e sou formado em Técnico em Eletrônica pela ETEC Tereza Nunes.
 
-Atualmente, estou cursando Engenharia da Computação na Univesp e dando os primeiros passos em Python. Este GitHub será meu espaço para compartilhar minha evolução, projetos e aprendizados, tudo aos poucos e com muito empenho.
+Atualmente, curso Engenharia da Computação na UNIVESP e estou estudando Python, buscando desenvolver cada vez mais meus conhecimentos em programação.
 
-🚀 
+🐍 Este GitHub é meu espaço para compartilhar meus estudos, exercícios, projetos e evolução durante essa jornada.
 
-🔧 **Este é o meu laboratório de código!**  
-Aqui você encontrará meus estudos, experimentos e projetos. 
-Seja muito bem-vindo(a) e fique à vontade para acompanhar minha jornada! 😊
-
-" 👾 Pequenos passos, grandes conquistas — um commit de cada vez. 👾"
+👾 Pequenos passos, grandes conquistas — um commit de cada vez.
